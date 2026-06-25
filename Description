@@ -1,0 +1,30 @@
+# Cybersecurity Important Notes
+
+Welcome to my cybersecurity learning repository.
+
+## Topics
+- Phishing
+- Malware
+- Password Security
+- Network Security
+
+## Code Examples
+- Password Generator
+- Password Strength Checker
+- Basic Port Scanner
+
+## Navigation
+
+### Notes
+- [Phishing](notes/phishing.md)
+- [Malware](notes/malware.md)
+- [Password Security](notes/password-security.md)
+
+### Examples
+- [Password Generator](examples/password_generator.py)
+- [Password Checker](examples/password_checker.py)
+
+## Learning Resources
+- Free online courses
+- Cybersecurity blogs
+- Practice platforms
